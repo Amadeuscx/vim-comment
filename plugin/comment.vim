@@ -7,6 +7,7 @@ let s:line_comments  = get(g:, 'vim_line_comments',  {
     \ 'ts': '//',
     \ 'java': '//',
     \ 'class': '//',
+    \ 'v': '//',
     \ 'c': '//',
     \ 'h': '//' })
 
