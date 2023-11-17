@@ -9,6 +9,7 @@ let s:line_comments  = get(g:, 'vim_line_comments',  {
     \ 'class': '//',
     \ 'v': '//',
     \ 'c': '//',
+    \ 'scala': '//',
     \ 'h': '//' })
 
 let s:chunk_comments = get(g:, 'vim_chunk_comments', {
